@@ -12,3 +12,5 @@ https://apklopfenstein.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alyssa Klopfenstein
+
+### ©️2020 Run Buddy, Inc
